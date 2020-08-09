@@ -33,6 +33,3 @@ def square_root(num)
   puts "#{num}**2"
  return answer
 end
-  
-
-
