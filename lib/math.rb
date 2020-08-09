@@ -30,6 +30,6 @@ end
 
 def square_root(num)
   answer = num**2
-  # puts "#{num}**2"
+  puts "#{num}**2"
  return answer
 end
