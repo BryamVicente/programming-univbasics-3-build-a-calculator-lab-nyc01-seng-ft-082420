@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  answer = num**2
+  # answer = num**2
   puts "#{num}**2"
- return answer
+ # return answer
 end
