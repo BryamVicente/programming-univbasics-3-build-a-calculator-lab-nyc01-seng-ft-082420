@@ -18,8 +18,11 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-
+  multiple_sum = num1 * num2
+  puts "#{num1} * #{num2}"
+ return multiple_sum
 end
+
 
 def modulo(num1, num2)
 
