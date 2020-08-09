@@ -25,7 +25,9 @@ end
 
 
 def modulo(num1, num2)
-
+  remainder = num1 % num2
+  puts "#{num1} % #{num2}"
+ return remainder
 end
 
 def square_root(num)
