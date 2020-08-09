@@ -10,7 +10,6 @@ def subtraction(num1, num2)
  return result
 end
 
-
 def division(num1, num2)
   quotient = num1 / num2
   puts "#{num1} / #{num2}"
@@ -23,7 +22,6 @@ def multiplication(num1, num2)
  return multiple_sum
 end
 
-
 def modulo(num1, num2)
   remainder = num1 % num2
   puts "#{num1} % #{num2}"
@@ -31,5 +29,10 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  answer = num**2
+  puts "#{num}**2"
+ return answer
 end
+  
+
+
